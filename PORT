@@ -1,0 +1,13 @@
+-URL ports
+-Port=7777
+-PeerPort=7778
+
+-OnlineSubsystemSteam Port
+-GameServerQueryPort=27015
+
+-/Script/OnlineSubsystemUtils.onlineBeaconHost port
+-ListenPort=15000
+
+-MobileSupport port
+-UDKRemotePort=41765
+-UDKRemotePortPIE=41766
