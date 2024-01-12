@@ -1,15 +1,11 @@
+// For react native
 6568, 7070, 50001
 1026 ~ 65535.
 
--URL ports
--Port=7777, 7778, 7779
-
--OnlineSubsystemSteam Port
--GameServerQueryPort=27015
+//For unreal engine
+7777, 7778, 7779
+27015
 27031 ~ 27036, 27900
--/Script/OnlineSubsystemUtils.onlineBeaconHost port
--ListenPort=15000
-
--MobileSupport port
--UDKRemotePort=41765
--UDKRemotePortPIE=41766
+15000
+41765
+41766
